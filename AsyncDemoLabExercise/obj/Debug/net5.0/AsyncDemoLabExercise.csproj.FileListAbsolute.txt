@@ -1,0 +1,16 @@
+C:\Users\dakov\source\repos\AsyncDemoLabExercise\bin\Debug\net5.0\AsyncDemoLabExercise.exe
+C:\Users\dakov\source\repos\AsyncDemoLabExercise\bin\Debug\net5.0\AsyncDemoLabExercise.deps.json
+C:\Users\dakov\source\repos\AsyncDemoLabExercise\bin\Debug\net5.0\AsyncDemoLabExercise.runtimeconfig.json
+C:\Users\dakov\source\repos\AsyncDemoLabExercise\bin\Debug\net5.0\AsyncDemoLabExercise.runtimeconfig.dev.json
+C:\Users\dakov\source\repos\AsyncDemoLabExercise\bin\Debug\net5.0\AsyncDemoLabExercise.dll
+C:\Users\dakov\source\repos\AsyncDemoLabExercise\bin\Debug\net5.0\ref\AsyncDemoLabExercise.dll
+C:\Users\dakov\source\repos\AsyncDemoLabExercise\bin\Debug\net5.0\AsyncDemoLabExercise.pdb
+C:\Users\dakov\source\repos\AsyncDemoLabExercise\obj\Debug\net5.0\AsyncDemoLabExercise.csproj.AssemblyReference.cache
+C:\Users\dakov\source\repos\AsyncDemoLabExercise\obj\Debug\net5.0\AsyncDemoLabExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakov\source\repos\AsyncDemoLabExercise\obj\Debug\net5.0\AsyncDemoLabExercise.AssemblyInfoInputs.cache
+C:\Users\dakov\source\repos\AsyncDemoLabExercise\obj\Debug\net5.0\AsyncDemoLabExercise.AssemblyInfo.cs
+C:\Users\dakov\source\repos\AsyncDemoLabExercise\obj\Debug\net5.0\AsyncDemoLabExercise.csproj.CoreCompileInputs.cache
+C:\Users\dakov\source\repos\AsyncDemoLabExercise\obj\Debug\net5.0\AsyncDemoLabExercise.dll
+C:\Users\dakov\source\repos\AsyncDemoLabExercise\obj\Debug\net5.0\ref\AsyncDemoLabExercise.dll
+C:\Users\dakov\source\repos\AsyncDemoLabExercise\obj\Debug\net5.0\AsyncDemoLabExercise.pdb
+C:\Users\dakov\source\repos\AsyncDemoLabExercise\obj\Debug\net5.0\AsyncDemoLabExercise.genruntimeconfig.cache

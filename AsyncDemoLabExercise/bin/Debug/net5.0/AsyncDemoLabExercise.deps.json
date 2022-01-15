@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AsyncDemoLabExercise/1.0.0": {
+        "runtime": {
+          "AsyncDemoLabExercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsyncDemoLabExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
