@@ -1,0 +1,19 @@
+﻿<section class="py-5">
+    <div class="container">
+        <h1>
+            Your request is not valid.
+        </h1>
+        <h2>
+            Errors:
+        </h2>
+
+        <div>
+            <ul>
+                @foreach (var error in Model)
+                {
+                    <h3><li>@error</li></h3>
+                }
+            </ul>
+        </div>
+    </div>
+</section>
